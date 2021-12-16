@@ -1,0 +1,3 @@
+* { box-sizing: border-box; padding: 0; margin: 0; }
+canvas { background: #eee; display: block; margin: 0 auto; }
+#myCanvas { width: 580px; height: 420px; }
